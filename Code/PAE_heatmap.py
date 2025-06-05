@@ -1,3 +1,4 @@
+#from: https://github.com/Ash100/Biopython/blob/main/AF3_Results_Visualization.ipynb
 #@title # **Predicted Alignment Error (PAE) Heatmap 🔥**
 import json
 import numpy as np
